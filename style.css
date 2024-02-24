@@ -1,0 +1,323 @@
+              /* header Strat*/
+* {
+    background-color: black;
+}
+
+ul li a {
+    color: white;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a .btn1{
+    color: white;
+    border: 1px solid #E72EBF;
+
+}
+
+ul li img {
+    width: 180px;
+    height: 34px;
+    margin: 15px 320px 0px 16px;
+}
+
+.nav-items {
+    gap: 42px;
+}
+
+i {
+    color: #E72EBF;
+    margin-left: 10px;
+}
+
+.nav-items li {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.nav-items li a {
+    text-decoration: none;
+}
+
+.nav-items button {
+    background-color: #E22DB7;
+    height: 44px;
+    width: 170px;
+    border: 1px solid #E22DB7;
+    border-radius: 10px;
+}
+
+.navs {
+    padding-top: 10px;
+}
+                /* header End */
+
+.img1 img{
+    width: 516px;
+    height: 290px;
+    margin-top: 110px;
+    margin-left: 245px;
+    border: 1px solid darkgray;
+    border-radius: 16px;
+}
+
+.sec1 h1{
+    font-size: 70px;
+    font-family: sans-serif;
+    width: 380px;
+    height: 79px;
+    color: white;
+    font-weight: bolder; 
+    margin-top: 110px;
+    margin-left: 60px;
+    margin-bottom: 0px;
+}
+
+.sec1 .head2{
+    font-size: 70px;
+    font-family: sans-serif;
+    width: 177px;
+    height: 99px;
+    color: #E72EBF;
+    font-weight: bolder; 
+    margin-top: 0px;
+}
+
+.sec1 p{
+    color: #ffffff;
+    margin-left: 60px;
+     width: 512px;
+     height: 48px;
+     font-size: 18px;
+}
+
+
+.btn2{
+    margin-left: 60px;
+    width: 224px;
+    height: 44px;
+    border: 1px solid #E72EBF;
+    color: #D129AD;
+    background-color: #171717;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+
+.divhead{
+    border: 1px solid #222222;
+    border-radius: 30px;
+    width: 170px;
+    height: 40px;
+    margin-left: 800px;
+    margin-top: 180px;
+}
+
+
+ .btn3 button{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #8E1873;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+
+.img3 img{
+ width: 485px;
+ height: 485px;
+ margin: 0px 0px 0px 96px;
+ margin-top: 30px;
+}
+
+.blok{
+    color: #FFFFFF;
+    width: 318px;
+    height: 72px;
+    margin-top: 150px;
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+.blok h2{
+    margin-left: 60px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+
+
+
+.topia{
+    margin-top: 130px;
+}
+
+.topia p{
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.phead{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.top {
+    width: 550px;
+    height: 363px;
+    margin-top: 90px;    
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
+video{
+    width: 1382px;
+    height:400px;
+    overflow: hidden;
+    
+}
+
+.div1{
+          background-image: url(./earn\ now.jpg);
+          width: 600px;
+          height: 400px;
+          background-repeat: no-repeat;
+          background-size: cover;
+          border: 1px solid darkgray;
+        
+                  }
+
+.div2{
+                background-image: url(./play\ now.jpg);
+                width: 600px;
+                height: 400px;
+                background-repeat: no-repeat;
+                background-size: cover;
+                margin-left: 40px;
+                border: 1px solid darkgray;
+                }
+
+.section5{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.div1 h2{
+        padding-top: 50px;
+        padding-left: 100px;
+
+}
+
+.div3{
+    background-image: url(./vote\ now.jpg);
+    width: 600px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 40px;
+    border: 1px solid darkgray;
+    }
+
+    .div4{
+        background-image: url(./purchase\ now.jpg);
+        width: 600px;
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 40px;
+        border: 1px solid darkgray;
+        }
+
+.section6{
+            margin-left: 200px;
+            margin-right: 200px;
+        }
+
+
+.div1 i{
+      font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

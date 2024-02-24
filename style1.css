@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+.head{
+    display: flex;
+}
+
+.div1{
+    background-image: url(./earn\ now.jpg);
+    width: 600px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid darkgray;
+}
+
+.div2{
+    background-image: url(./play\ now.jpg);
+    width: 600px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 40px;
+    border: 1px solid darkgray;
+    }
+
+h2{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
