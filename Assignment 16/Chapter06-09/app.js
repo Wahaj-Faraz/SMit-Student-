@@ -1,4 +1,4 @@
-9    // Question 01
+// Question 01
 // var a=10;
 // document.write("<b>Result:</b>");
 // document.write("<br>The Value of a is: " + a );
@@ -18,7 +18,7 @@
 // var a=--a;
 // document.write("<br>Now the Value of a is: " + a);
 
-    // Question 02
+// Question 02
 // var a=2;var b=1;
 // document.write("a is " + a);
 // document.write("<br>b is " + b);
@@ -26,16 +26,26 @@
 //           1  - 0   +  1  + 1
 // document.write("<br>Result is " +result);
 
-    // Question 03
+// Question 03
 // var userNamne=prompt("Enter Your Name","Your Good Name Please....");
 // document.write("<h2>Hello " + userNamne +"</h2>");
 
-    // Question 04
+// Question 04
 
-    // Question 05
- // nahi horaha hai ye
+// Question 05
+//     var number=+prompt("Number","Enter The Number");
+//     if(number!=5){
+// for(var i=1;i<=10;i++){
+//     document.write(number + "x " + i + "= " + number*i + "<br />")
+// }
+//     }else{
+//         for(var c=1;c<=10;c++){
+//             document.write(5 + "x " + c + "= " + 5*c + "<br />")
 
-    // Question 06
+//         }
+//     }
+
+// Question 06
 // var sub1="English";
 // var sub2="Math";
 // var sub3="Urdu";
@@ -54,4 +64,4 @@
 
 
 
- 
+

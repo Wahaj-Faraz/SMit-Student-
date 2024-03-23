@@ -3,7 +3,15 @@
 // alert("I am " + age + " years old");
 
         // Question 02
-
+        let visitCount = localStorage.getItem("page_view");
+        if (!visitCount) {
+        visitCount = 1;
+        localStorage.setItem("page_view", visitCount);
+        } else {
+        visitCount = Number(visitCount) + 1;
+       localStorage.setItem("page_view", visitCount);
+        }
+        document.write(`You have visited this site ${visitCount} times.`);
 
         // Question 03
 //  var birthYear=2005;
@@ -22,7 +30,7 @@
 
 
 
-
+        
 
 
 
